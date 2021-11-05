@@ -316,5 +316,4 @@
                         Stop()
                         Praying:Play()
                     end)
-            end)
-    end)
+				end)
